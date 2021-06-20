@@ -1,4 +1,4 @@
-def decimal_to_Hexa(num):
+def decimal_to_hexa(num):
     hex = ''
     while (num != 0):
         if (num % 16 < 10):
@@ -9,7 +9,7 @@ def decimal_to_Hexa(num):
     return hex
 
 
-def decimal_to_Octal(num):
+def decimal_to_octal(num):
     oct = ''
     while (num != 0):
         oct = str(num % 8) + oct
@@ -17,7 +17,7 @@ def decimal_to_Octal(num):
     return oct;
 
 
-def decimal_to_Binary(num):
+def decimal_to_binary(num):
     ans=''
     while (num != 0):
         if (num % 2 == 0):
