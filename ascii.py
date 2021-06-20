@@ -1,2 +1,2 @@
-n=int(input('Enter the number : '))
-print(chr(n))
+num=input('Enter the Character : ')
+print(ord(num))

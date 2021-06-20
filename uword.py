@@ -5,18 +5,13 @@ try:
     try:
         inputFile=open("one.txt","r").read().split(' ')
         for i in inputFile:
-            word=''
-            for c in i:
-                if(c!='\n'):
-                    count=0
-                    for v in i:
-                        if(c==v):
-                            count+=1
-                    if(count==1):
-                        word=word+c
-            one.append(len(word))
-            word=word+str(len(word))
-            two.append(word)
+
+            if (inputFile.count(i) > 1):
+                continue
+            else:
+                one.append(len(i))
+                i = i + str(len(i))
+                two.append(i)
         one.sort()
         for w in one:
             for x in two:
