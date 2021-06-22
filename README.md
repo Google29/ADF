@@ -9,7 +9,7 @@ Getting the input as file name and storing it in a variable named file,then open
 
 3,Program to Print all Prime Numbers in an Interval of 5 seconds
 
-Getting an maximum range of a digit of which prime has to be find into a variable (num) and then creating the list of size num filling it with True(boolean list),traversing through the list from two to EOF, In that Falsing the statement which is the multiple of i,then coming out of the list therefore the non-prime number index in the list is false,we can take the True as a Prime, Includng the method (sleep,time) for getting Interval of 5s.
+Getting an maximum range of a digit for which prime has to be find into a variable (num) and then creating the list of size num filling it with True(boolean list),traversing through the list from two to end of the list, In that Falsing the statement which is the multiple of i,then coming out of the list therefore the non-prime number index in the list is false,we can take the True as a Prime, Includng the method (sleep,time) for getting Interval of 5s.
 
 4,Program to Find HCF or GCD
 
