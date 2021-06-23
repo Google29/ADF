@@ -1,6 +1,6 @@
 class employee:
 
-    def Declare_employee(self,name,age,gender,salary,state,city):
+    def __init__(self,name,age,gender,salary,state,city):
         self.name=name
         self.age=age
         self.gender=gender
@@ -23,6 +23,5 @@ gender=input('Enter the gender: ')
 salary=int(input('Enter the salary: '))
 state=input('Enter the state: ')
 city=input('Enter the city: ')
-sum=employee()
-sum.Declare_employee(name,age,gender,salary,state,city)
+sum=employee(name,age,gender,salary,state,city)
 sum.Print_employee()
