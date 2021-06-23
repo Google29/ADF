@@ -1,0 +1,21 @@
+2021-06-23 19:37:33,740:Ass3.txt file opened
+2021-06-23 19:37:33,740:Count of words whose prefix "To" is determined
+2021-06-23 19:37:33,740:Count of words whose suffix "ing" is determined
+2021-06-23 19:37:33,740:Words with maximum occurance is determined
+2021-06-23 19:37:33,740:Palindrome words is determined
+2021-06-23 19:37:33,740:Unique list is identified
+2021-06-23 19:37:33,741:Counter index dictionary is identified
+2021-06-23 19:37:33,741:folder1.txt file opened
+2021-06-23 19:37:33,741:Writing splitted words based on vowels in a new file is completed
+2021-06-23 19:37:33,746:folder1.txt file closed
+2021-06-23 19:37:33,746:folder2.txt file opened
+2021-06-23 19:37:33,746:Converting the third letter of each word and write it in a new file is completed
+2021-06-23 19:37:33,747:folder2.txt file closed
+2021-06-23 19:37:33,748:folder3.txt file opened
+2021-06-23 19:37:33,748:Converting the fourth word of file and write it in a new file is completed
+2021-06-23 19:37:33,749:folder3.txt file closed
+2021-06-23 19:37:33,749:folder4.txt file opened
+2021-06-23 19:37:33,749:Converting the " " to "-" is done and write it in a new file is completed
+2021-06-23 19:37:33,749:folder4.txt file closed
+2021-06-23 19:37:33,750:All operations are running successfully
+
