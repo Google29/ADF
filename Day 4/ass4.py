@@ -23,24 +23,21 @@ try:
         for w in filelist:
             if w.lower() == w[::-1].lower():
                 palindrome.append(w)
-        print('\n\nPalindrome presented in the file : ' + str(palindrome)[1:-1],'\n')
+        print('\n\nPalindrome presented in the file : ', palindrome,'\n')
         Di = Counter(filelist)
         MAX = 0
         for k in Di:
             if Di[k] > MAX:
                 MAX = Di[k]
-        FRSTW = True
         print('Words that was repeated maximum number of times : ',end=" ")
 
+        maxList=[]
         uniqueList = []
         for k in Di:
             uniqueList.append(k)
-            if FRSTW and Di[k]==MAX:
-                print(k,end="")
-                FRSTW=False
-                continue
             if Di[k]==MAX:
-                print(','+k,end="")
+                maxList.append(k)
+        print(maxList)
 
         print('\n\nUnique list presented in the file : ',uniqueList)
         Word={}
