@@ -1,0 +1,286 @@
+2021-06-27 21:56:39,732:new_auth_plugin: mysql_native_password
+2021-06-27 21:56:53,973:first name received: Senthil
+2021-06-27 21:56:58,850:last name received: Kumar
+2021-06-27 21:57:06,575:DOB received: 1998-03-03
+2021-06-27 21:57:09,095:gender received: Male
+2021-06-27 21:57:12,856:nationality received: Indian
+2021-06-27 21:57:21,986:current city received: Lucknow
+2021-06-27 21:57:31,200:state received: West Bengal
+2021-06-27 21:57:35,436:pin-code received: 676667
+2021-06-27 21:57:40,387:qualification received: B.E
+2021-06-27 21:57:45,983:salary received: 20000
+2021-06-27 21:57:52,038:pan number received: nhm1234567
+2021-06-27 21:57:53,754:User's details are inserted to the DB
+2021-06-27 21:57:53,811:Valid DOB detected
+2021-06-27 21:57:53,823:User's age is calculated
+2021-06-27 21:57:53,855:Invalid gender detected
+2021-06-27 22:02:09,690:new_auth_plugin: mysql_native_password
+2021-06-27 22:02:12,735:User's first name received: ram
+2021-06-27 22:02:16,747:User's middle name received: raj
+2021-06-27 22:02:18,466:User's first name received: u
+2021-06-27 22:02:26,566:User's DOB received: 1998-09-09
+2021-06-27 22:02:29,705:User's gender received: Male
+2021-06-27 22:02:32,853:User's nationality received: Indian
+2021-06-27 22:02:40,421:User's city received: West Bengal
+2021-06-27 22:02:54,672:User's state received: West Bengal
+2021-06-27 22:02:59,807:User's PIN code received: 654321
+2021-06-27 22:03:03,766:User's qualification received: b.e
+2021-06-27 22:03:07,237:User's salary received: 100000
+2021-06-27 22:03:15,104:User's PAN number received: num1234576
+2021-06-27 22:03:16,778:User's details are inserted to the DB
+2021-06-27 22:03:16,828:Valid DOB detected
+2021-06-27 22:03:16,831:User's age is calculated
+2021-06-27 22:03:16,847:Values fetched from DB
+2021-06-27 22:03:16,868:Provided salary is out of range for eligibility
+2021-06-27 22:04:15,251:new_auth_plugin: mysql_native_password
+2021-06-27 22:04:19,680:User's first name received: riya
+2021-06-27 22:04:24,676:User's first name received: kumar
+2021-06-27 22:04:35,748:User's DOB received: 1996-07-23
+2021-06-27 22:04:39,238:User's gender received: Female
+2021-06-27 22:04:43,259:User's nationality received: Indian
+2021-06-27 22:04:48,849:User's city received: Odessa
+2021-06-27 22:04:54,479:User's state received: West Bengal
+2021-06-27 22:04:58,762:User's PIN code received: 654321
+2021-06-27 22:05:02,963:User's qualification received: B.tech
+2021-06-27 22:05:09,618:User's salary received: 30000
+2021-06-27 22:05:14,733:User's PAN number received: num7654321
+2021-06-27 22:05:16,415:User's details are inserted to the DB
+2021-06-27 22:05:16,466:Valid DOB detected
+2021-06-27 22:05:16,468:User's age is calculated
+2021-06-27 22:05:16,484:Values fetched from DB
+2021-06-27 22:05:16,494:Eligible user
+2021-06-27 22:05:16,494:Mysql cursor closed
+2021-06-27 22:05:16,495:Mysql connection closed
+2021-06-27 22:08:13,699:new_auth_plugin: mysql_native_password
+2021-06-27 22:08:18,432:first name received: priya
+2021-06-27 22:08:22,770:middle name received: perumal
+2021-06-27 22:08:24,948:last name received: sami
+2021-06-27 22:08:33,699:DOB received: 1997-07-17
+2021-06-27 22:08:37,684:gender received: Female
+2021-06-27 22:08:42,507:nationality received: Indian
+2021-06-27 22:08:47,534:current city received: Karur
+2021-06-27 22:08:54,706:state received: Tamil Nadu
+2021-06-27 22:09:02,286:pin-code received: 625431
+2021-06-27 22:09:09,603:qualification received: b.Arch
+2021-06-27 22:09:14,383:salary received: 35000
+2021-06-27 22:09:27,923:Pan Number received: numj112233
+2021-06-27 22:09:29,620:User's details are inserted to the DB
+2021-06-27 22:09:29,670:Valid DOB detected
+2021-06-27 22:09:29,672:User's age is calculated
+2021-06-27 22:09:29,680:Values fetched from DB
+2021-06-27 22:09:29,702:Eligible user
+2021-06-27 22:09:29,703:Mysql cursor closed
+2021-06-27 22:09:29,705:Mysql connection closed
+2021-06-27 22:32:21,796:new_auth_plugin: mysql_native_password
+2021-06-27 22:32:27,916:first name received: ravi
+2021-06-27 22:32:31,484:last name received: ram
+2021-06-27 22:32:35,653:DOB received: 1996
+2021-06-27 22:32:45,365:gender received: Male
+2021-06-27 22:32:48,643:nationality received: Indian
+2021-06-27 22:32:51,331:current city received: Theni
+2021-06-27 22:32:53,971:state received: Tamil
+2021-06-27 22:32:59,651:pin-code received: 625531
+2021-06-27 22:33:02,374:qualification received: b.e
+2021-06-27 22:33:05,043:salary received: 10000
+2021-06-27 22:33:10,999:Pan Number received: num1234564
+2021-06-27 22:33:23,926:new_auth_plugin: mysql_native_password
+2021-06-27 22:33:30,276:first name received: ragul
+2021-06-27 22:33:36,955:last name received: sidharth
+2021-06-27 22:33:44,717:DOB received: 1997-12-07
+2021-06-27 22:33:47,480:gender received: Male
+2021-06-27 22:33:50,533:nationality received: Indian
+2021-06-27 22:33:53,240:current city received: Theni
+2021-06-27 22:33:58,833:state received: Tamil Nadu
+2021-06-27 22:34:04,335:pin-code received: 654334
+2021-06-27 22:34:07,362:qualification received: b.e
+2021-06-27 22:34:10,670:salary received: 20000
+2021-06-27 22:34:18,756:Pan Number received: num1234523
+2021-06-27 22:36:17,019:new_auth_plugin: mysql_native_password
+2021-06-27 22:36:20,073:first name received: ram
+2021-06-27 22:36:24,565:last name received: riya
+2021-06-27 22:36:32,172:DOB received: 1997-06-08
+2021-06-27 22:36:37,354:gender received: Female
+2021-06-27 22:36:41,780:nationality received: Indian
+2021-06-27 22:36:45,182:current city received: Theni
+2021-06-27 22:36:52,246:state received: Tamil Nadu
+2021-06-27 22:36:56,898:pin-code received: 657876
+2021-06-27 22:37:00,900:qualification received: b.e
+2021-06-27 22:37:04,237:salary received: 10000
+2021-06-27 22:37:09,901:Pan Number received: num0987654
+2021-06-27 22:37:09,948:User's details are inserted to the DB
+2021-06-27 22:37:09,969:Valid DOB detected
+2021-06-27 22:37:09,983:User's age is calculated
+2021-06-27 22:37:09,995:Values fetched from DB
+2021-06-27 22:37:10,004:Eligible user
+2021-06-27 22:37:10,004:Mysql cursor closed
+2021-06-27 22:37:10,005:Mysql connection closed
+2021-06-28 11:04:24,510:new_auth_plugin: mysql_native_password
+2021-06-28 11:04:31,717:first name received: Bharth
+2021-06-28 11:04:36,697:last name received: kumar
+2021-06-28 11:04:44,763:DOB received: 1996-02-01
+2021-06-28 11:04:47,312:gender received: Male
+2021-06-28 11:04:50,924:nationality received: Indian
+2021-06-28 11:04:55,698:current city received: Namakkal
+2021-06-28 11:05:02,443:state received: Tamil Nadu
+2021-06-28 11:05:06,727:pin-code received: 657676
+2021-06-28 11:05:12,994:qualification received: B.A
+2021-06-28 11:05:17,639:salary received: 20000
+2021-06-28 11:05:24,842:Pan Number received: bum1234567
+2021-06-28 11:05:25,158:User's details are inserted to the DB
+2021-06-28 11:05:25,296:Valid DOB detected
+2021-06-28 11:05:25,348:User's age is calculated
+2021-06-28 11:05:25,371:Values fetched from DB
+2021-06-28 11:05:25,424:Eligible user
+2021-06-28 11:05:25,425:Mysql cursor closed
+2021-06-28 11:05:25,425:Mysql connection closed
+2021-06-28 11:20:46,826:new_auth_plugin: mysql_native_password
+2021-06-28 11:20:53,101:first name received: Sana
+2021-06-28 11:20:58,502:last name received: Setty
+2021-06-28 11:21:04,661:DOB received: 1994-08-07
+2021-06-28 11:21:08,317:gender received: Female
+2021-06-28 11:21:12,084:nationality received: Indian
+2021-06-28 11:21:18,425:current city received: Hydrabad
+2021-06-28 11:21:29,091:state received: Andhra Pradesh
+2021-06-28 11:21:34,013:pin-code received: 657890
+2021-06-28 11:21:39,120:qualification received: B.sc
+2021-06-28 11:21:42,401:salary received: 30000
+2021-06-28 11:21:49,053:Pan Number received: cvb1234567
+2021-06-28 11:23:10,941:new_auth_plugin: mysql_native_password
+2021-06-28 11:23:14,306:first name received: Sana
+2021-06-28 11:23:18,912:last name received: Shetty
+2021-06-28 11:23:24,432:DOB received: 1997-02-03
+2021-06-28 11:23:28,126:gender received: Female
+2021-06-28 11:23:30,722:nationality received: Indian
+2021-06-28 11:23:34,664:current city received: Hydrabad
+2021-06-28 11:23:42,516:state received: Andhra Pradesh
+2021-06-28 11:23:46,664:pin-code received: 657876
+2021-06-28 11:23:50,549:qualification received: B.sc
+2021-06-28 11:23:53,940:salary received: 60000
+2021-06-28 11:23:59,191:Pan Number received: mkn1234567
+2021-06-28 11:23:59,600:User's details are inserted to the DB
+2021-06-28 11:23:59,630:Valid DOB detected
+2021-06-28 11:23:59,650:User's age is calculated
+2021-06-28 11:23:59,659:Values fetched from DB
+2021-06-28 11:23:59,680:Eligible user
+2021-06-28 11:23:59,681:Mysql cursor closed
+2021-06-28 11:23:59,681:Mysql connection closed
+2021-06-28 11:36:33,605:new_auth_plugin: mysql_native_password
+2021-06-28 11:36:37,983:first name received: Som
+2021-06-28 11:36:43,603:last name received: shekar
+2021-06-28 11:36:52,456:DOB received: 1991-08-04
+2021-06-28 11:36:54,913:gender received: Male
+2021-06-28 11:36:57,464:nationality received: Indian
+2021-06-28 11:37:02,776:current city received: Chennai
+2021-06-28 11:37:06,519:state received: Tamil Nadu
+2021-06-28 11:37:10,595:pin-code received: 908909
+2021-06-28 11:37:15,970:qualification received: B.Math
+2021-06-28 11:37:20,566:salary received: 34900
+2021-06-28 11:37:26,005:Pan Number received: aaa1234567
+2021-06-28 11:37:27,716:User's details are inserted to the DB
+2021-06-28 11:37:27,780:Valid DOB detected
+2021-06-28 11:37:27,783:User's age is calculated
+2021-06-28 11:37:27,796:Values fetched from DB
+2021-06-28 11:37:27,807:Eligible user
+2021-06-28 11:37:27,808:Mysql cursor closed
+2021-06-28 11:37:27,808:Mysql connection closed
+2021-06-28 12:24:44,105:new_auth_plugin: mysql_native_password
+2021-06-28 12:24:49,291:first name received: {value}
+2021-06-28 12:24:53,157:last name received: {value}
+2021-06-28 12:25:00,459:DOB received: {value}
+2021-06-28 12:25:04,404:gender received: {value}
+2021-06-28 12:25:07,722:nationality received: {value}
+2021-06-28 12:25:12,194:current city received: {value}
+2021-06-28 12:25:19,466:state received: {value}
+2021-06-28 12:25:24,109:pin-code received: {value}
+2021-06-28 12:25:27,475:qualification received: {value}
+2021-06-28 12:25:31,334:salary received: {value}
+2021-06-28 12:25:45,154:Pan Number received: {value}
+2021-06-28 12:25:46,827:User's details are inserted to the DB
+2021-06-28 12:25:46,864:Valid DOB detected
+2021-06-28 12:25:46,881:User's age is calculated
+2021-06-28 12:25:46,917:Invalid PIN code detected
+2021-06-28 12:53:34,310:new_auth_plugin: mysql_native_password
+2021-06-28 12:53:38,634:first name received: {value}
+2021-06-28 12:53:42,961:last name received: {value}
+2021-06-28 12:53:50,649:DOB received: {value}
+2021-06-28 12:53:53,175:gender received: {value}
+2021-06-28 12:53:56,385:nationality received: {value}
+2021-06-28 12:53:59,256:current city received: {value}
+2021-06-28 12:54:05,881:state received: {value}
+2021-06-28 12:54:13,420:pin-code received: {value}
+2021-06-28 12:54:17,892:qualification received: {value}
+2021-06-28 12:54:21,207:salary received: {value}
+2021-06-28 12:54:28,299:Pan Number received: {value}
+2021-06-28 12:54:30,026:User's details are inserted to the DB
+2021-06-28 12:54:30,098:Valid DOB detected
+2021-06-28 12:54:30,110:User's age is calculated
+2021-06-28 12:54:30,129:Values fetched from DB
+2021-06-28 12:54:30,161:Eligible user
+2021-06-28 12:54:30,162:Mysql cursor closed
+2021-06-28 12:54:30,163:Mysql connection closed
+2021-06-29 10:45:49,907:new_auth_plugin: mysql_native_password
+2021-06-29 10:46:49,424:new_auth_plugin: mysql_native_password
+2021-06-29 10:46:55,501:first name received: {value}
+2021-06-29 10:47:02,439:last name received: {value}
+2021-06-29 10:47:09,060:DOB received: {value}
+2021-06-29 10:47:13,606:gender received: {value}
+2021-06-29 10:47:17,206:nationality received: {value}
+2021-06-29 10:47:23,814:current city received: {value}
+2021-06-29 10:47:30,109:state received: {value}
+2021-06-29 10:47:33,787:pin-code received: {value}
+2021-06-29 10:47:37,024:qualification received: {value}
+2021-06-29 10:47:40,631:salary received: {value}
+2021-06-29 10:47:46,591:Pan Number received: {value}
+2021-06-29 10:47:48,484:User's details are inserted to the DB
+2021-06-29 10:47:48,506:Valid DOB detected
+2021-06-29 10:47:48,514:User's age is calculated
+2021-06-29 10:47:48,531:Values fetched from DB
+2021-06-29 10:47:48,551:Eligible user
+2021-06-29 10:47:48,552:Mysql cursor closed
+2021-06-29 10:47:48,552:Mysql connection closed
+2021-06-29 11:29:23,027:new_auth_plugin: mysql_native_password
+2021-06-29 11:29:38,715:first name received: {value}
+2021-06-29 11:29:43,948:middle name received: {value}
+2021-06-29 11:29:46,324:last name received: {value}
+2021-06-29 11:30:05,492:DOB received: {value}
+2021-06-29 11:30:07,904:gender received: {value}
+2021-06-29 11:30:11,052:nationality received: {value}
+2021-06-29 11:30:18,461:current city received: {value}
+2021-06-29 11:30:27,695:state received: {value}
+2021-06-29 11:30:45,446:pin-code received: {value}
+2021-06-29 11:30:55,451:qualification received: {value}
+2021-06-29 11:31:04,725:salary received: {value}
+2021-06-29 11:31:14,792:Pan Number received: {value}
+2021-06-29 11:31:16,458:User's details are inserted to the DB
+2021-06-29 11:31:16,518:Valid DOB detected
+2021-06-29 11:31:16,523:User's age is calculated
+2021-06-29 11:31:16,537:Values fetched from DB
+2021-06-29 11:31:16,558:Given age is out of range for eligibility
+2021-06-29 11:32:22,178:new_auth_plugin: mysql_native_password
+2021-06-29 11:32:26,137:first name received: {value}
+2021-06-29 11:32:29,317:middle name received: {value}
+2021-06-29 11:32:32,773:last name received: {value}
+2021-06-29 11:32:43,100:DOB received: {value}
+2021-06-29 11:32:46,429:gender received: {value}
+2021-06-29 11:32:49,856:nationality received: {value}
+2021-06-29 11:32:54,247:current city received: {value}
+2021-06-29 11:33:10,505:new_auth_plugin: mysql_native_password
+2021-06-29 11:33:13,354:first name received: {value}
+2021-06-29 11:33:19,963:middle name received: {value}
+2021-06-29 11:33:22,046:last name received: {value}
+2021-06-29 11:33:27,551:DOB received: {value}
+2021-06-29 11:33:31,879:gender received: {value}
+2021-06-29 11:33:35,134:nationality received: {value}
+2021-06-29 11:33:40,251:current city received: {value}
+2021-06-29 11:33:44,644:state received: {value}
+2021-06-29 11:33:50,042:pin-code received: {value}
+2021-06-29 11:33:56,033:qualification received: {value}
+2021-06-29 11:34:01,367:salary received: {value}
+2021-06-29 11:34:06,858:Pan Number received: {value}
+2021-06-29 11:34:08,572:User's details are inserted to the DB
+2021-06-29 11:34:08,596:Valid DOB detected
+2021-06-29 11:34:08,605:User's age is calculated
+2021-06-29 11:34:08,618:Values fetched from DB
+2021-06-29 11:34:08,639:Eligible user
+2021-06-29 11:34:08,640:Mysql cursor closed
+2021-06-29 11:34:08,640:Mysql connection closed
